@@ -1,0 +1,10 @@
+a {
+  color: black;
+}
+
+body {
+  padding: 20px 40px 20px 200px;
+  border: rgb(167, 161, 153) 5px solid;
+  border-radius: 5px;
+  background: linear-gradient(white black);
+}
